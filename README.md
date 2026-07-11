@@ -25,16 +25,16 @@
 
 | 章節 | 內容                                                             |
 | ---- | ---------------------------------------------------------------- |
-| 01   | [資料探勘 (Data Mining)-01](<./資料探勘%20(Data%20Mining)-01.md>) |
-| 02   | [資料探勘 (Data Mining)-02](<./資料探勘%20(Data%20Mining)-02.md>) |
-| 03   | [資料探勘 (Data Mining)-03](<./資料探勘%20(Data%20Mining)-03.md>) |
-| 04   | [資料探勘 (Data Mining)-04](<./資料探勘%20(Data%20Mining)-04.md>) |
-| 05   | [資料探勘 (Data Mining)-05](<./資料探勘%20(Data%20Mining)-05.md>) |
-| 06   | [資料探勘 (Data Mining)-06](<./資料探勘%20(Data%20Mining)-06.md>) |
-| 07   | [資料探勘 (Data Mining)-07](<./資料探勘%20(Data%20Mining)-07.md>) |
-| 08   | [資料探勘 (Data Mining)-08](<./資料探勘%20(Data%20Mining)-08.md>) |
-| 09   | [資料探勘 (Data Mining)-09](<./資料探勘%20(Data%20Mining)-09.md>) |
-| 10   | [資料探勘 (Data Mining)-10](<./資料探勘%20(Data%20Mining)-10.md>) |
+| 01   | [資料探勘 (Data Mining)-01](./01.md) |
+| 02   | [資料探勘 (Data Mining)-02](./02.md) |
+| 03   | [資料探勘 (Data Mining)-03](./03.md) |
+| 04   | [資料探勘 (Data Mining)-04](./04.md) |
+| 05   | [資料探勘 (Data Mining)-05](./05.md) |
+| 06   | [資料探勘 (Data Mining)-06](./06.md) |
+| 07   | [資料探勘 (Data Mining)-07](./07.md) |
+| 08   | [資料探勘 (Data Mining)-08](./08.md) |
+| 09   | [資料探勘 (Data Mining)-09](./09.md) |
+| 10   | [資料探勘 (Data Mining)-10](./10.md) |
 
 ---
 
