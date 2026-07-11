@@ -26,26 +26,6 @@
 
 ---
 
-📁 Repository 結構
-
-```
-Data-Mining
-│
-├── README.md
-├── 資料探勘 (Data Mining)-01.md
-├── 資料探勘 (Data Mining)-02.md
-├── 資料探勘 (Data Mining)-03.md
-├── 資料探勘 (Data Mining)-04.md
-├── 資料探勘 (Data Mining)-05.md
-├── 資料探勘 (Data Mining)-06.md
-├── 資料探勘 (Data Mining)-07.md
-├── 資料探勘 (Data Mining)-08.md
-├── 資料探勘 (Data Mining)-09.md
-└── 資料探勘 (Data Mining)-10.md
-```
-
----
-
 ## 📌 使用方式
 
 1. 點選左側課程章節
