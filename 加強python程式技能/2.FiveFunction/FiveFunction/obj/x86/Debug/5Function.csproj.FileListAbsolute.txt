@@ -1,0 +1,2 @@
+C:\C#Exercise\4_5Function\5Function\obj\x86\Debug\CollegeSample1_5Function.exe
+C:\C#Exercise\4_5Function\5Function\obj\x86\Debug\CollegeSample1_5Function.pdb

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\2.\u670D\u52D9\\102.C#Exercise\\2_FiveFunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9ACCA3-72EB-4EB7-8CFA-F00098269F65}|FiveFunction\\FiveFunction.csproj|j:\\2.\u670D\u52D9\\102.c#exercise\\2_fivefunction\\fivefunction\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9ACCA3-72EB-4EB7-8CFA-F00098269F65}|FiveFunction\\FiveFunction.csproj|solutionrelative:fivefunction\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9ACCA3-72EB-4EB7-8CFA-F00098269F65}|FiveFunction\\FiveFunction.csproj|J:\\2.\u670D\u52D9\\102.C#Exercise\\2_FiveFunction\\fivefunction\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F9ACCA3-72EB-4EB7-8CFA-F00098269F65}|FiveFunction\\FiveFunction.csproj|solutionrelative:fivefunction\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FiveFunction||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9ACCA3-72EB-4EB7-8CFA-F00098269F65}|FiveFunction\\FiveFunction.csproj|J:\\2.\u670D\u52D9\\102.C#Exercise\\2_FiveFunction\\fivefunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9ACCA3-72EB-4EB7-8CFA-F00098269F65}|FiveFunction\\FiveFunction.csproj|solutionrelative:fivefunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9ACCA3-72EB-4EB7-8CFA-F00098269F65}|FiveFunction\\FiveFunction.csproj|J:\\2.\u670D\u52D9\\102.C#Exercise\\2_FiveFunction\\fivefunction\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9ACCA3-72EB-4EB7-8CFA-F00098269F65}|FiveFunction\\FiveFunction.csproj|solutionrelative:fivefunction\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\2.\u670D\u52D9\\102.C#Exercise\\2_FiveFunction\\FiveFunction\\Program.cs",
+              "RelativeDocumentMoniker": "FiveFunction\\Program.cs",
+              "ToolTip": "J:\\2.\u670D\u52D9\\102.C#Exercise\\2_FiveFunction\\FiveFunction\\Program.cs",
+              "RelativeToolTip": "FiveFunction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:23:57.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FiveFunction",
+              "DocumentMoniker": "J:\\2.\u670D\u52D9\\102.C#Exercise\\2_FiveFunction\\FiveFunction\\FiveFunction.csproj",
+              "RelativeDocumentMoniker": "FiveFunction\\FiveFunction.csproj",
+              "ToolTip": "J:\\2.\u670D\u52D9\\102.C#Exercise\\2_FiveFunction\\FiveFunction\\FiveFunction.csproj",
+              "RelativeToolTip": "FiveFunction\\FiveFunction.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2022-08-02T14:54:03.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "J:\\2.\u670D\u52D9\\102.C#Exercise\\2_FiveFunction\\FiveFunction\\Main.cs",
+              "RelativeDocumentMoniker": "FiveFunction\\Main.cs",
+              "ToolTip": "J:\\2.\u670D\u52D9\\102.C#Exercise\\2_FiveFunction\\FiveFunction\\Main.cs",
+              "RelativeToolTip": "FiveFunction\\Main.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv1cAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:23:57.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "J:\\2.\u670D\u52D9\\102.C#Exercise\\2_FiveFunction\\FiveFunction\\Main.cs",
+              "RelativeDocumentMoniker": "FiveFunction\\Main.cs",
+              "ToolTip": "E:\\2.\u670D\u52D9\\102.C#Exercise\\2_FiveFunction\\FiveFunction\\Main.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:23:58.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "J:\\2.\u670D\u52D9\\102.C#Exercise\\2_FiveFunction\\FiveFunction\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "FiveFunction\\Main.Designer.cs",
+              "ToolTip": "J:\\2.\u670D\u52D9\\102.C#Exercise\\2_FiveFunction\\FiveFunction\\Main.Designer.cs",
+              "RelativeToolTip": "FiveFunction\\Main.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:23:58.059Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
