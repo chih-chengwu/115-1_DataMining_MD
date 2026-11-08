@@ -16,7 +16,7 @@
 | 01   | [什麼是資料探勘(Data Mining)](./01.md)                                          |
 | 02   | [分群Clustering](./02.md)                                                       |
 | 03   | [分類Classification](./03.md)<br />註: 請自行練習資料夾的題目 (期中考試練習題) |
-| 04   | [資料探勘 (Data Mining)-04](./04.md)                                            |
+| 04   | [Google Colaboratory (.ipynb程式) (Jupyter Notebook格式)](./04.md)              |
 | 05   | [資料探勘 (Data Mining)-05](./05.md)                                            |
 | 06   | [資料探勘 (Data Mining)-06](./06.md)                                            |
 | 07   | [資料探勘 (Data Mining)-07](./07.md)                                            |
