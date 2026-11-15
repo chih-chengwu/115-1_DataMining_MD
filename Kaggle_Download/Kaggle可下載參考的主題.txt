@@ -1,0 +1,13 @@
+同學可以在Kaggle上搜尋自己有興趣的主題 (不限), 但最好是它的產出(outcome)是有圖表的
+報告時需說明圖表代表的意義
+-
+以下是可以參考的主題
+1.Insurance Fraud 保險理賠是否為詐欺 (Vehicle Insurance Fraud Detection)
+2.Invest/ Finacial analysis (Investment and Financial Analysis )
+3.Stock
+4.SPAM
+5.Titanic 鐵達尼號
+
+6.home-credit-default-risk 金融與風險預測
+7.Give Me Some Credit 信用風險建模
+8.ImageNet / Open Images Dataset 影像與多媒體大數據
